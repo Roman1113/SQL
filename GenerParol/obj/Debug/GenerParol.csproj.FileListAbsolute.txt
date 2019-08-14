@@ -1,0 +1,15 @@
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\bin\Debug\GenerParol.exe.config
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\bin\Debug\GenerParol.exe
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\bin\Debug\GenerParol.pdb
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol.csprojAssemblyReference.cache
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\MainWindow.g.cs
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\App.g.cs
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol_MarkupCompile.cache
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol_MarkupCompile.lref
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\MainWindow.baml
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol.g.resources
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol.Properties.Resources.resources
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol.csproj.GenerateResource.cache
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol.csproj.CoreCompileInputs.cache
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol.exe
+C:\Users\maksutroman\source\repos\GenerParol\GenerParol\obj\Debug\GenerParol.pdb
